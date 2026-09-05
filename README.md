@@ -1,16 +1,52 @@
-## Hi there 👋
+Hi, I'm Vipin Singh Negi 👋
 
-<!--
-**VipinSinghNegi10/VipinSinghNegi10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Big Data Engineer | Data Engineering | Researcher | Educator
 
-Here are some ideas to get you started:
+I specialize in building scalable data systems and real-time
+data processing pipelines using Apache Spark, Kafka, Hadoop
+and modern data lakehouse technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🚀 Core Expertise
+
+• Big Data Engineering
+• Real-Time Data Processing
+• Apache Spark
+• Apache Kafka
+• Hadoop
+• Delta Lake
+• Apache Iceberg
+• Apache Hudi
+• Data Lakehouse
+• AWS / Cloud
+• Linux
+• Networking & Infrastructure
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔬 Research
+
+Real-Time Performance Comparison of
+Delta Lake, Apache Iceberg and Apache Hudi
+using Kafka and Spark Structured Streaming
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎓 Education & Teaching
+
+• Big Data Engineering
+• Data Engineering
+• Apache Spark
+• Hadoop
+• HBase
+• MapReduce
+• Hive
+• Python
+• Power BI
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🌐 Connect
+
+Portfolio | LinkedIn | ResearchGate | Google Scholar | ORCID
